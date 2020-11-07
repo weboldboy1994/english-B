@@ -3,7 +3,6 @@
     <router-view/>
   </div>
 </template>
-
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -24,5 +23,8 @@
 #nav a.router-link-exact-active {
   color: red;
 }
-
+html body{
+  margin:0;
+  padding:0
+}
 </style>
