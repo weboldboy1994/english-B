@@ -137,12 +137,12 @@
 					{
 						title: " <span class='active'>Watch</span> her and then try to copy what she does．",
 						translate: "留心观察，然后照她的样子做。",
-						explain: ""
+						explain: "观察她的动作，然后跟着做。"
 					},
 					{
 						title: "Will you <span class='active'>do</span> me a favor，please?",
 						translate: "你愿意帮我个忙吗？",
-						explain: ""
+						explain: "do somebody a favor“帮助某人”。"
 					},
                     {
                         title: "It’s bad  <span class='active'>allowed</span> for you to smoke in the public places where smoking is not ",
@@ -154,7 +154,7 @@
                         " I think John and Peter will． ",
                         translate: "这是个好主意。但谁去执行这个计划呢？\n" +
                         "我认为约翰和比德可以去执行这个计划。",
-                        explain: ""
+                        explain: "去执行, to carry out"
                     },
                     {
                         title: "Two days is not enough for him to finish the work．He needs <span class='active'>a third</span> day．",
@@ -188,48 +188,153 @@
                         "也可用作不及物动词,意为“听见、听到”,但不一定是有意识地,强调听的结果。"
                     },
                     {
-                        title: " ",
-                        translate: "？",
+                        title: "The students were all entertained in a Mexican restaurant, at Professor Brian’s <span class='active'>expense</span>． ",
+                        translate: "布朗教授在一家墨西哥餐厅请学生吃饭。",
+                        explain: ""
+                    },
+                    {
+                        title: "Tom, what did you do with my documents? I have never seen such a <span class='active'>mess</span> and disorder．",
+                        translate: "汤姆，你拿你的文件在干什么？我从来没见到这么乱过。",
+                        explain: ""
+                    },
+                    {
+                        title: "If she wants to stay thin, she must make a  <span class='active'>change</span> in her diet．",
+                        translate: "如果她想保持身材苗条，就必须在饮食有所改变。",
+                        explain: ""
+                    },
+                    {
+                        title: " <span class='active'>Before</span> the War of Independence, the United States was an English colony．",
+                        translate: "在独立战争以前，美国时英国的一个殖民地。",
+                        explain: ""
+                    },
+                    {
+                        title: "No matter  <span class='active'>how hard it was snowing</span>, the little sisters managed to round the sheep up and drive them back home safely．",
+                        translate: "不管雪下的多大，两个小姐妹还是安全地把羊拢起来赶回了家。",
+                        explain: ""
+                    },
+                    {
+                        title: "A police officer claimed that he had attempted to  <span class='active'>avoid</span> paying his fare. ",
+                        translate: "警官说这个年轻人试图拒付费用。",
+                        explain: ""
+                    },
+                    {
+                        title: "While I was in the university, I learned taking a photo, <span class='active'>which</span> is very useful now for me. ",
+                        translate: "我在大学里学会了照相，现在对我很有用。",
+                        explain: ""
+                    },
+                    {
+                        title: "This kind of material expands  <span class='active'>with</span> the temperature increasing. ",
+                        translate: "这种材料随温度的提高而膨胀。",
+                        explain: ""
+                    },
+                    {
+                        title: "People at the party worried about him because no one was aware <span class='active'>of where</span> he had gone. ",
+                        translate: "晚会上的人都为他担忧，因为没人知道他去哪儿了。",
+                        explain: ""
+                    },
+                    {
+                        title: "A sudden noise of a fire-engine made him  <span class='active'>hurry</span> to the door.",
+                        translate: "火警的突然响起使他匆忙走到门口。",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
                         explain: ""
                     },
                     {
                         title: "",
-                        translate: "？",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
+                        explain: ""
+                    },
+                    {
+                        title: "",
+                        translate: "",
                         explain: ""
                     },
 				]
