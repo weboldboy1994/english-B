@@ -190,7 +190,8 @@
                     {
                         title: "The students were all entertained in a Mexican restaurant, at Professor Brian’s <span class='active'>expense</span>． ",
                         translate: "布朗教授在一家墨西哥餐厅请学生吃饭。",
-                        explain: ""
+                        explain: "at sb's expense\n" +
+                        "由某人承担费用"
                     },
                     {
                         title: "Tom, what did you do with my documents? I have never seen such a <span class='active'>mess</span> and disorder．",
@@ -220,7 +221,9 @@
                     {
                         title: "While I was in the university, I learned taking a photo, <span class='active'>which</span> is very useful now for me. ",
                         translate: "我在大学里学会了照相，现在对我很有用。",
-                        explain: ""
+                        explain: "which引导的定语从句，指代I learned taking a photo这件事。\n" +
+                        "\n" +
+                        "当关系代词指代整个句子时都是非限制性定语从句,定语从句前要加逗号,表示“事”或“物”关系代词可以用which。"
                     },
                     {
                         title: "This kind of material expands  <span class='active'>with</span> the temperature increasing. ",
@@ -345,9 +348,9 @@
 		}
 	};
 </script>
-<style>
+<style scoped>
 	.infinite-list > div {
-		height: 60px;
+		height: 100px;
 		background: #e8f3fe;
 		margin: 30px;
 	}

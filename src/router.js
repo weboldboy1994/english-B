@@ -21,6 +21,11 @@ export default new Router({
                 name: 'English',
                 component: () => import('./views/English.vue'),
             },
+            {
+                path: 'cihui',
+                name: 'cihui',
+                component: () => import('./components/cihui.vue'),
+            },
         ]
     },
   ],

@@ -11,8 +11,8 @@
             <el-menu-item index="1">处理中心</el-menu-item>
             <el-submenu index="2">
                 <template slot="title">大学英语b</template>
-                <router-link  to="/home/English" ><el-menu-item index="2-1">选择题</el-menu-item></router-link>
-                <el-menu-item index="2-2">选项2</el-menu-item>
+                <router-link  to="/home/English" > <el-menu-item index="2-1">选择题</el-menu-item> </router-link>
+                <router-link  to="/home/cihui"   > <el-menu-item  index="2-2">词汇</el-menu-item>  </router-link>
                 <el-menu-item index="2-3">选项3</el-menu-item>
             </el-submenu>
             <el-menu-item index="3" disabled>消息中心</el-menu-item>
