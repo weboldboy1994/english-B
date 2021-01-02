@@ -126,7 +126,7 @@
 					{
 						title: "I have been looking forward to <span class='active'>Hearing</span> from my parents. ",
 						translate: "我一直盼望着收到父母的来信。",
-						explain: "固定搭配来的,look forworad to 后面接动词的ing形式"
+						explain: "固定搭配来的,look forworad to 后面接动词的ing形式111"
 					},
 
 					{
